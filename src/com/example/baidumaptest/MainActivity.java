@@ -86,7 +86,7 @@ public class MainActivity extends Activity {
 		//controller.setCenter(point);
     	
     	//MyLocationData myLocationOverlay = new MyLocationData(mMapView);
-    	
+    	Toast.makeText(this, "ok", Toast.LENGTH_SHORT).show();
     	
 	}
 
